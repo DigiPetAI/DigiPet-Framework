@@ -1,26 +1,17 @@
 # 🐾 DigiPet Framework
 
 <div align="center">
-  <img src="./assets/digipet-framework.png" alt="DigiPet Framework Banner" width="100%" />
+  <img src="./public/og.png" alt="DigiPet Framework Banner" width="100%" />
 </div>
 
 </p>
 <p align="center">
-<a href="https://x.com/digipet_tech">🐦 Twitter</a>
+<a href="https://digipet.ai/">🌐 Website</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href="https://t.me/+digipet">📢 Telegram</a>
-<span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href="https://www.digipet.tech/">🌐 Website</a>
-<span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href="https://docs.digipet.tech/">📙 Documentation</a>
+<a href="https://digipet.gitbook.io/docs">📙 Documentation</a>
 </p>
 
-- [Project Mochi: Experience Autonomous AI Companions](https://mochi.digipet.tech)
-  - [Mochi Live Stream](https://x.com/digipet_tech/live): Watch AI companions evolve in real-time
-  - [Framework Demo](https://www.youtube.com/watch?v=demo): See the DigiPet Framework in action
 
-# 🌍 README Translations
-[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [한国语](./README.ko-KR.md) | [日本語](./README.ja-JP.md)
 
 # Overview
 ## DigiPet Framework: Autonomous AI Companion Development Platform
@@ -73,15 +64,15 @@ DigiPet Framework is an open-source platform for creating truly autonomous, lear
   4. Response generation
   5. Learning and adaptation
 
-Further details in the [Architecture Documentation](https://docs.digipet.tech/architecture).
+Further details in the [Architecture Documentation](./docs/core-concepts/README.md).
 
-# 🚀 Build with DigiPet Framework:
+# Build with DigiPet Framework:
 
 ## Project Mochi: Reference Implementation
-![Mochi](./assets/mochi-logo.png)
+
 - The first autonomous companion built with DigiPet Framework
 - Complete implementation example with full feature showcase
-- [Watch Live Development](https://x.com/digipet_tech/live)
+
 
 # Quick Start
 
@@ -155,18 +146,8 @@ await myPet.initialize();
 
 ### Community & Support
 
-- [GitHub Issues](https://github.com/DigiPet/framework/issues): Bug reports and feature requests
-- [Telegram](https://t.me/+digipet): Community discussion and support
-- [Discord](https://discord.gg/digipet): Developer community
-- [Documentation](https://docs.digipet.tech): Comprehensive guides and API reference
-
-## Contributors
-
-<a href="https://github.com/DigiPet/framework/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DigiPet/framework" alt="Contributors" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+- [GitHub Issues](https://github.com/apheelaleony/DigiPet-Framework/issues): Bug reports and feature requests
+- [Documentation](https://digipet.gitbook.io/docs): Comprehensive guides and API reference
 
 ## License
 
